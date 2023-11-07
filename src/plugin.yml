@@ -1,0 +1,7 @@
+name: UnlimitedAnvil
+version: 1.0
+api-version: 1.20
+author: indes33
+description: Plugin pour retirer la limitation des enclumes
+
+main: fr.indes33.UnlimitedAnvil.Main
